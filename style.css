@@ -2,13 +2,10 @@
 
 .blue{
  background-color: cornflowerblue;
-
 }
 
 .italic{
 font-style: italic;
-
-
 }
 
 .yellow {
@@ -16,8 +13,7 @@ font-style: italic;
 }
 
 .bold {
-font-weight: bold;
-
+ font-weight: bold;
 }
 
 #Title{
