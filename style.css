@@ -1,6 +1,15 @@
 
 
+.blue{
+background-color: cornflowerblue;
 
+}
+
+.italic{
+font-style: italic;
+
+
+}
 
 .yellow {
   background-color: yellow;
@@ -42,11 +51,6 @@ display: block;
 margin-left:auto;
 margin-right: auto;
 }
-img {
-
-}
-
-
 
 
 
